@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MoneyTrackerHooks2/static/css/main.39a2758c.chunk.css",
+    "main.js": "/MoneyTrackerHooks2/static/js/main.ce9d8cda.chunk.js",
+    "main.js.map": "/MoneyTrackerHooks2/static/js/main.ce9d8cda.chunk.js.map",
+    "runtime-main.js": "/MoneyTrackerHooks2/static/js/runtime-main.cd61ff98.js",
+    "runtime-main.js.map": "/MoneyTrackerHooks2/static/js/runtime-main.cd61ff98.js.map",
+    "static/js/2.526d5269.chunk.js": "/MoneyTrackerHooks2/static/js/2.526d5269.chunk.js",
+    "static/js/2.526d5269.chunk.js.map": "/MoneyTrackerHooks2/static/js/2.526d5269.chunk.js.map",
+    "static/js/3.c7468996.chunk.js": "/MoneyTrackerHooks2/static/js/3.c7468996.chunk.js",
+    "static/js/3.c7468996.chunk.js.map": "/MoneyTrackerHooks2/static/js/3.c7468996.chunk.js.map",
+    "index.html": "/MoneyTrackerHooks2/index.html",
+    "static/css/main.39a2758c.chunk.css.map": "/MoneyTrackerHooks2/static/css/main.39a2758c.chunk.css.map",
+    "static/js/2.526d5269.chunk.js.LICENSE.txt": "/MoneyTrackerHooks2/static/js/2.526d5269.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd61ff98.js",
+    "static/js/2.526d5269.chunk.js",
+    "static/css/main.39a2758c.chunk.css",
+    "static/js/main.ce9d8cda.chunk.js"
+  ]
+}
